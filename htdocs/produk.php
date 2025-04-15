@@ -209,7 +209,7 @@ $result = $conn->query($sql);
     	</div>
     </div>
 	<!-- section footer end -->
-	<div class="copyright">2025 Digawe Cah Pati. <a href="https://html.design">Okeh Sep Penting Dadi.</a></div>
+	<div class="copyright">PT. Dua Kelinci Pati&nbsp<a href="https://html.design">| Koperasi  Dua Kelinci.</a></div>
 
       <!-- Javascript files-->
       <script src="js/jquery.min.js"></script>
