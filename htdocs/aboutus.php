@@ -281,7 +281,7 @@ Indonesia dan Internasional. </li>
     </div>
 	<!-- section footer end -->
     
-	<div class="copyright">2019 All Rights Reserved. <a href="https://html.design">Free html  Templates</a></div>
+	<div class="copyright">PT. Dua Kelinci Pati&nbsp<a href="https://html.design">| Koperasi  Dua Kelinci.</a></div>
 
 
 
